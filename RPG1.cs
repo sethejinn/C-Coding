@@ -16,7 +16,7 @@ public class Personaje
     public int DanoBase { get; set; }
     public int MaxVida { get; set; }
     public int PuntosDeVida { get; set; }
-    public int Casa { get; set; } // Nivel de la casa
+    public int Casa { get; set; } 
     public List<Arma> Armas { get; set; }
     public List<Armadura> Armaduras { get; set; }
 
